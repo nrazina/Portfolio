@@ -1,0 +1,51 @@
+﻿  stdafx.cpp
+  CryptoLib.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\ntl\sp_arith.h(322): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(48): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(749): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(751): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(753): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(755): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(781): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(783): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(785): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(787): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(799): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(801): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(803): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(805): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(849): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(851): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(853): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(855): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(880): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(882): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(884): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(886): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(899): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(901): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(903): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(905): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(920): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(922): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(924): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(926): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(950): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(952): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(954): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(956): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(968): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(970): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(972): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(974): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(1122): warning C4244: аргумент: преобразование "long" в "unsigned char", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(1136): warning C4018: <: несоответствие типов со знаком и без знака
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(1163): warning C4244: аргумент: преобразование "long" в "unsigned char", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(1188): warning C4018: <: несоответствие типов со знаком и без знака
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(1351): warning C4244: аргумент: преобразование "long" в "unsigned char", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(1365): warning C4018: <: несоответствие типов со знаком и без знака
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(1392): warning C4244: аргумент: преобразование "long" в "unsigned char", возможна потеря данных
+d:\практикум\семестр 6\cryptolib\cryptolib\cryptolib.cpp(1417): warning C4018: <: несоответствие типов со знаком и без знака
+  dllmain.cpp
+     Создается библиотека D:\Практикум\Семестр 6\CryptoLib\Debug\CryptoLib.lib и объект D:\Практикум\Семестр 6\CryptoLib\Debug\CryptoLib.exp
+  CryptoLib.vcxproj -> D:\Практикум\Семестр 6\CryptoLib\Debug\CryptoLib.dll
